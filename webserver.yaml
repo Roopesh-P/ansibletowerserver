@@ -1,5 +1,5 @@
 ---
-- name: Configuring Web Server
+- name: Configuring Web Server using as tower
   hosts: all
   tasks:
   - name: Installing the package
